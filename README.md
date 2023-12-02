@@ -1,3 +1,12 @@
+🚀 React Native Learning Components
+
+Welcome to my React Native Learning Components repository! 📚 As I delved into the exciting world of React Native, I created this collection of components to solidify my understanding of the fundamental topics and basics in React Native development. Each component is a tangible reflection of the lessons learned and challenges overcome during my journey of mastering this versatile technology.
+
+Whether you're a fellow learner or an experienced developer looking for quick references, feel free to explore and utilize these components. Your feedback and contributions are highly appreciated as we continue to grow and learn together in the dynamic realm of React Native development.
+
+Happy coding! 💻✨
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
